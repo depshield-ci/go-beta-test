@@ -4,4 +4,4 @@ This is just a minimal repo for testing Sonatype's `depshield` against an intent
 dependencies.
 
 # 1
-![depshield](https://depshield-ci.depshield.sonatype.org/badges/depshield-ci/DepShield-Go-Testing-2/depshield.svg)
+![depshield](https://ci.dev.depshield.sonatype.org/badges/depshield-ci/DepShield-Go-Testing-2/depshield.svg)
